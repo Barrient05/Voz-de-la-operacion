@@ -1,0 +1,11 @@
+{
+  "name": "voz-de-la-operacion-central-v419",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Sitio estático listo; las funciones se despliegan con Netlify'"
+  },
+  "dependencies": {
+    "@netlify/database": "latest"
+  }
+}
